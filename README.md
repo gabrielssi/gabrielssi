@@ -15,7 +15,7 @@
 - 💻 Foco em programação com **C/C++**, **Java**, desenvolvimento **Web (Tailwind/JS/Firebase)** e scripts de automação.
 - 🤖 Projetando circuitos e firmwares com **Arduino**, **ESP32** e **MicroPython**.
 - 🛠️ Modelagem CAD para fabricação digital em **SolidWorks**, **Fusion 360** e **Impressão 3D FDM**.
-- 📚 Atuo como **monitor acadêmico**, auxiliando outros estudantes em programação, eletrônica e física.
+- 📚 Atuo como **monitor acadêmico**, auxiliando outros estudantes em programação e eletrônica.
 
 ---
 
